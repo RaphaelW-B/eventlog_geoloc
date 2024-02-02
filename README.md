@@ -34,7 +34,7 @@ The script is used in this demo where I setup Azure Sentinel (SIEM) and connect 
 <h2>World map of incoming attacks after 24 hours (built custom logs including geodata)</h2>
 
 <p align="center">
-<img src="https://i.imgur.com/krRFrK5.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+<img src="https://i.imgur.com/mEbWMlo.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
 </p>
 
 
