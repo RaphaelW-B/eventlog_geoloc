@@ -1,4 +1,4 @@
-<h1>  SIEM home lab:geographic data for unsuccessful RDP connections to an IP address.</h1>
+<h1>  SIEM home lab: geographic data for unsuccessful RDP connections to an IP address.</h1>
 
 
  ### [YouTube Demonstration (@16:20)](https://youtu.be)
