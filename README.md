@@ -14,7 +14,7 @@ The script is used in this demo where I setup Azure Sentinel (SIEM) and connect 
 <br />
 
 <p align="center">
-<img src="((https://i.imgur.com/cpTECWR.png))" height="85%" width="85%" alt="RDP event fail logs"/>
+<img src="https://i.imgur.com/cpTECWR.png" height="85%" width="85%" alt="RDP event fail logs"/>
 </p>
 <h2>Languages Used</h2>
 
@@ -27,7 +27,7 @@ The script is used in this demo where I setup Azure Sentinel (SIEM) and connect 
 <h2>Attacks coming in; Custom logs being output with geodata</h2>
 
 <p align="center">
-<img src="(https://i.imgur.com/QmGjLnw.png)" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+<img src="https://i.imgur.com/QmGjLnw.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
 </p>
 
 
