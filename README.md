@@ -1,9 +1,6 @@
 <h1>  SIEM home lab: geographic data for unsuccessful RDP connections to an IP address.</h1>
 
 
- ### [YouTube Demonstration (@16:20)](https://youtu.be)
-
-
 <h2>Description</h2>
 <b>The Powershell script in this repository is responsible for parsing out Windows Event Log information for failed RDP attacks and using a third party API to collect geographic information about the attackers location.
 </b>
