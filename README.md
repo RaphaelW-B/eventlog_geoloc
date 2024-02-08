@@ -34,13 +34,10 @@ The script is used in this demo where I setup Azure Sentinel (SIEM) and connect 
 <img src="https://i.imgur.com/mEbWMlo.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
 </p>
 
+## Key Components
 
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
+1. **RDP Event Fail Logs**: PowerShell script extracts failed RDP logon events from the Windows Event Viewer.
+2. **Languages Used**:
+   - PowerShell: Used to extract RDP failed logon logs from the Windows Event Viewer.
+3. **Utilities Used**:
+    - ipgeolocation.io: Utilized for the IP Address to Geolocation API functionality.
